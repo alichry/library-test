@@ -30,7 +30,7 @@ they have more than 3 checked out books
   - retrieve the user's checked out books
 
 
-## Deployment Commands
+## Deployment commands
 
 ### `npm run start`
 
@@ -46,7 +46,7 @@ Generates a `.build/` directory with the compiled files and a `.build/cdk.out/` 
 
 Deploy the stack to AWS.
 
-### `npm run remove [stack]`
+### `npm run remove`
 
 Remove the stack and all of its resources from AWS. 
 
